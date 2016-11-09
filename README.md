@@ -22,6 +22,6 @@ Ilya Sutskever, Oriol Vinyals, Quoc V. Le. <b> Sequence to Sequence Learning wit
 
 ### Natural Language Processing
 
-Iulian Vlad Serban et al. <b> Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus </b> (2016.3) [[arXiv]] (https://arxiv.org/abs/1603.06807) 
+Iulian Vlad Serban et al. <b> Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus </b> (2016.3) [[arXiv]] (https://arxiv.org/abs/1603.06807) [[notes]] (https://github.com/yunjey/deeplearning-papers/blob/master/notes/generating_factoid_questions_with_rnn.md) 
 
 
