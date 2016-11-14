@@ -3,6 +3,8 @@ Deep learning paper list (ongoing)
 
 
 ## Neural Network Model
+* Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.06258)
+
 * David Krueger et al. <b> Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations </b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=rJqBEPcxe)
 
 * Gabriel Pereyra et al. <b> Regularizing Neural Networks by Penalizing Confident Output Distributions </b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=HkCjNI5ex)
