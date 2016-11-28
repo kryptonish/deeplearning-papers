@@ -11,7 +11,7 @@ sequence.
 
 ### Contributions
 
-They proposed a novel neural network model which uses soft attention to select adaptively parts of a source sequence.
+They proposed a novel neural network model which uses attention mechanism to select adaptively parts of a source sequence.
 
 They achieved a translation preformance comparable to the existing state-of-the-art phrase-based system on the task of English-to-French
 translation.
