@@ -2,7 +2,13 @@
 Deep learning paper list (ongoing)
 
 
-## Neural Network Model
+## Model
+* Sergey Ioffe, Christian Szegedy. <b> Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift </b> (2015.11) [[arXiv]] (https://arxiv.org/abs/1502.03167)
+
+* Tim Cooijmans et al. <b> Recurrent Batch Normalization </b> (2016.3) [[arXiv]] (https://arxiv.org/abs/1603.09025)
+
+* Jimmy Ba et al. <b> Layer Normalization </b> (2016.7) [[arXiv]] (https://arxiv.org/abs/1607.06450)
+
 * Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.06258)
 
 * David Krueger et al. <b> Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations </b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=rJqBEPcxe)
