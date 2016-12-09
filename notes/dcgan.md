@@ -4,10 +4,12 @@
 
 ![alt text](jpg/dcgan.jpg)
 
-*Figure 1. DCGAN generator model architecture*
 
 
-<center>sadada</center>
+
+<p align="center"><i>Figure 1. DCGAN generator model architecture</i></p>
+
+<br>
 
 The model proposed in this paper is known as <b> Deep Convolutional Generative Adversarial Networks (DCGAN)</b>. 
 In this paper, authors upgrade <b> Generative Adversarial Networks (GAN) </b> by changing multi-layer perceptron to convolutional neural network so
