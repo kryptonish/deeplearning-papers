@@ -52,6 +52,13 @@ Deep learning paper list (ongoing)
 
 ## Natural Language Processing
 
-* Iulian Vlad Serban et al. <b> Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus </b> (2016.3) [[arXiv]] (https://arxiv.org/abs/1603.06807) [[notes]] (https://github.com/yunjey/deeplearning-papers/blob/master/notes/generating_factoid_questions_with_rnn.md) 
+* Jason P.C. Chiu, Eric Nichols. <b> Named Entity Recognition with Bidirectional LSTM-CNNs </b> (2015.11) (ACL 2016) [[arXiv]] (https://arxiv.org/abs/1511.08308) 
 
+* Jianpeng Cheng, Mirella Lapata. <b> Neural Summarization by Extracting Sentences and Words </b> (2016.3) (ACL 2016) [[arXiv]] (https://arxiv.org/abs/1603.07252)
+
+* Iulian Vlad Serban et al. <b> Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus </b> (2016.3) (ACL 2016) [[arXiv]] (https://arxiv.org/abs/1603.06807) [[notes]] (https://github.com/yunjey/deeplearning-papers/blob/master/notes/generating_factoid_questions_with_rnn.md) 
+
+* Karl Pichotta, Raymond J. Mooney. <b> Using Sentence-Level LSTM Language Models for Script Inference </b> (2016.8) (ACL 2016) [[arXiv]] (https://arxiv.org/abs/1604.02993)
+
+* Yunchuan Chen et al. <b> Compressing Neural Language Models by Sparse Word Representations </b> (2016.10) (ACL 2016) [[arXiv]] (https://arxiv.org/abs/1610.03950)
 
