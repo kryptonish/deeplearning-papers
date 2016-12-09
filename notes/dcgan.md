@@ -2,12 +2,7 @@
 
 
 
-![alt text](jpg/dcgan.jpg)
-
-
-
-
-<p align="center"><i>Figure 1. DCGAN generator model architecture</i></p>
+![alt text](jpg/dcgan.jpg) <p align="center"><i>Figure 1. DCGAN generator model architecture</i></p>
 
 <br>
 
