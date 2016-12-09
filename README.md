@@ -1,6 +1,7 @@
 # Deeplearning Papers (2016.11.9 ~) 
 Deep learning paper list (ongoing)
 
+<br>
 
 ## Model
 * Sergey Ioffe, Christian Szegedy. <b> Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift </b> (2015.11) [[arXiv]] (https://arxiv.org/abs/1502.03167)
@@ -17,10 +18,13 @@ Deep learning paper list (ongoing)
 
 * Yingce Xia et al. <b> Dual Learning for Machine Translation </b> (2016.11) [[arXiv]] (https://arxiv.org/abs/1611.00179)
 
+<br>
+
 ## Optimization 
 
 * Max Jaderberg et al. <b> Decoupled Neural Interfaces using Synthetic Gradients </b> (2016.8) [[arXiv]] (https://arxiv.org/abs/1608.05343)
 
+<br>
 
 ## Generative Model
 
@@ -32,6 +36,7 @@ Deep learning paper list (ongoing)
 
 * Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
 
+<br>
 
 ## Sequence-to-Sequence Model
 * Kyunghyun Cho et al. <b>Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.1078) [[notes]] (https://github.com/yunjey/deeplearning-papers/blob/master/notes/learning_phrase_representation_using_rnn_enc_dec.md)
@@ -40,6 +45,7 @@ Deep learning paper list (ongoing)
 
 * Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. <b> Neural Machine Translation by Jointly Learning to Align and Translate.</b> (2014.9) [[arXiv]](https://arxiv.org/abs/1409.0473) [[notes]] (https://github.com/yunjey/deeplearning-papers/blob/master/notes/nmt_by_jointly_train_align_and_translate.md)
 
+<br>
 
 ## Image Captioning
 * Oriol Vinyals et al. <b> Show and Tell: A Neural Image Caption Generator </b> (2014.11) [[arXiv]] (https://arxiv.org/abs/1411.4555) 
@@ -49,6 +55,8 @@ Deep learning paper list (ongoing)
 * Oriol Vinyals et al. <b> Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge </b> (2016.9) [[arXiv]] (https://arxiv.org/abs/1609.06647) [[tensorflow]] (https://github.com/tensorflow/models/tree/master/im2txt)
 
 * Jiasen Lu et al. <b> Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning </b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.01887)
+
+<br>
 
 ## Natural Language Processing
 
