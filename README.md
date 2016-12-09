@@ -48,6 +48,8 @@ Deep learning paper list (ongoing)
 
 * Oriol Vinyals et al. <b> Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge </b> (2016.9) [[arXiv]] (https://arxiv.org/abs/1609.06647) [[tensorflow]] (https://github.com/tensorflow/models/tree/master/im2txt)
 
+* Jiasen Lu et al. <b> Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning </b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.01887)
+
 ## Natural Language Processing
 
 * Iulian Vlad Serban et al. <b> Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus </b> (2016.3) [[arXiv]] (https://arxiv.org/abs/1603.06807) [[notes]] (https://github.com/yunjey/deeplearning-papers/blob/master/notes/generating_factoid_questions_with_rnn.md) 
