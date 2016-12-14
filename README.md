@@ -5,20 +5,18 @@ Deep learning paper list (ongoing)
 
 ## Google Brain Team
 
-* Alireza Makhzani et al. <b> Adversarial Autoencoders </b> (2015.11) [[arXiv]] (https://arxiv.org/abs/1511.05644)
-
 * Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1608.06019)
 
 * Amit Daniely et al. <b> Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity </b> (2016.2) [[arXiv]] (https://arxiv.org/abs/1602.05897)
 
-* Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.06258)
-
 * S. M. Ali Eslami et al. <b> Attend, Infer, Repeat: Fast Scene Understanding with Generative Models </b> (2016.3) [[arXiv]] (https://arxiv.org/abs/1603.08575)
 
+* Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.06258)
 
 
 
 
+<br>
 
 ## DeepMind
 
@@ -30,6 +28,13 @@ Deep learning paper list (ongoing)
 
 * A van den Oord et al <b> WaveNet: A Generative Model for Raw Audio </b> (2016.9) [[arXiv]] (https://arxiv.org/abs/1609.03499)
 
+<br>
+
+## Facebook AI Research (FAIR)
+
+* Pauline Luc et al. <b> Semantic Segmentation using Adversarial Networks </b> (2016.11) [[arXiv]] (https://arxiv.org/abs/1611.08408)
+
+* Xianming Liu et al. <b> Feedback Neural Network for Weakly Supervised Geo-Semantic Segmentation </b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.02766)
 
 
 <br>
