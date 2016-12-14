@@ -11,7 +11,7 @@ Deep learning paper list (ongoing)
 
 * Max Jaderberg et al. <b> Decoupled Neural Interfaces using Synthetic Gradients </b> (2016.8) [[arXiv]] (https://arxiv.org/abs/1608.05343)
 
-* WaveNet: A van den Oord et al <b> A Generative Model for Raw Audio </b> (2016.9) [[arXiv]] (https://arxiv.org/abs/1609.03499)
+* A van den Oord et al <b> WaveNet: A Generative Model for Raw Audio </b> (2016.9) [[arXiv]] (https://arxiv.org/abs/1609.03499)
 
 
 
