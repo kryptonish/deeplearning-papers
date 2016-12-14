@@ -7,7 +7,17 @@ Deep learning paper list (ongoing)
 
 * Alireza Makhzani et al. <b> Adversarial Autoencoders </b> (2015.11) [[arXiv]] (https://arxiv.org/abs/1511.05644)
 
-* 
+* Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1608.06019)
+
+* Amit Daniely et al. <b> Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity </b> (2016.2) [[arXiv]] (https://arxiv.org/abs/1602.05897)
+
+* Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.06258)
+
+* S. M. Ali Eslami et al. <b> Attend, Infer, Repeat: Fast Scene Understanding with Generative Models </b> (2016.3) [[arXiv]] (https://arxiv.org/abs/1603.08575)
+
+
+
+
 
 
 ## DeepMind
@@ -31,8 +41,6 @@ Deep learning paper list (ongoing)
 * Tim Cooijmans et al. <b> Recurrent Batch Normalization </b> (2016.3) [[arXiv]] (https://arxiv.org/abs/1603.09025)
 
 * Jimmy Ba et al. <b> Layer Normalization </b> (2016.7) [[arXiv]] (https://arxiv.org/abs/1607.06450)
-
-* Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.06258)
 
 * David Krueger et al. <b> Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations </b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=rJqBEPcxe)
 
