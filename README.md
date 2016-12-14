@@ -3,6 +3,21 @@ Deep learning paper list (ongoing)
 
 <br>
 
+## DeepMind
+
+* M Fraccaro et al. <b> Sequential Neural Models with Stochastic Layers </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1605.07571)
+
+* M Andrychowicz et al. <b> Learning to Learn by Gradient Descent by Gradient Descent </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1606.04474)
+
+* Max Jaderberg et al. <b> Decoupled Neural Interfaces using Synthetic Gradients </b> (2016.8) [[arXiv]] (https://arxiv.org/abs/1608.05343)
+
+* WaveNet: A van den Oord et al <b> A Generative Model for Raw Audio </b> (2016.9) [[arXiv]] (https://arxiv.org/abs/1609.03499)
+
+
+
+<br>
+
+
 ## Model
 * Sergey Ioffe, Christian Szegedy. <b> Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift </b> (2015.11) [[arXiv]] (https://arxiv.org/abs/1502.03167)
 
@@ -18,11 +33,6 @@ Deep learning paper list (ongoing)
 
 * Yingce Xia et al. <b> Dual Learning for Machine Translation </b> (2016.11) [[arXiv]] (https://arxiv.org/abs/1611.00179)
 
-<br>
-
-## Optimization 
-
-* Max Jaderberg et al. <b> Decoupled Neural Interfaces using Synthetic Gradients </b> (2016.8) [[arXiv]] (https://arxiv.org/abs/1608.05343)
 
 <br>
 
