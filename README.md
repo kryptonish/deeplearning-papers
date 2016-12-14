@@ -3,6 +3,13 @@ Deep learning paper list (ongoing)
 
 <br>
 
+## Google Brain Team
+
+* Alireza Makhzani et al. <b> Adversarial Autoencoders </b> (2015.11) [[arXiv]] (https://arxiv.org/abs/1511.05644)
+
+* 
+
+
 ## DeepMind
 
 * M Fraccaro et al. <b> Sequential Neural Models with Stochastic Layers </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1605.07571)
