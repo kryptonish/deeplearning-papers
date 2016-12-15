@@ -3,6 +3,13 @@ Deep learning paper list (ongoing)
 
 <br>
 
+## ICLR 2017 OpenReview
+
+* Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
+
+<br>
+
+
 ## Google Brain Team
 
 * Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1608.06019)
@@ -63,8 +70,6 @@ Deep learning paper list (ongoing)
 * Ian J. Goodfellow et al. <b> Generative Adversarial Networks </b> (2014.6) [[arXiv]] (https://arxiv.org/abs/1406.2661)
 
 * Alec Radford, Luke Metz, Soumith Chintala. <b> Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks </b> (2015.11) [[arXiv]] (https://arxiv.org/abs/1511.06434)
-
-* Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
 
 <br>
 
